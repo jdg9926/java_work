@@ -57,7 +57,6 @@ public class Ex01_array {
 		// 실수 -> 0.0
 		// 문자형 -> ''
 		// 객체형 - > null
-		
 		int[] intArray = new int[5];
 		double[] dbArray = new double[5];
 		float[] fArray = new float[5];

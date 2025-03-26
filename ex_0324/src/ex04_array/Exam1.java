@@ -57,6 +57,7 @@ public class Exam1 {
 			if (min > nums[i]) {
 				min = nums[i];
 			}
+			
 		}
 		
 		System.out.println("함수 사용 없는 최대값 : " + max);
