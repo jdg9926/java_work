@@ -10,8 +10,15 @@
     <fullyQualifiedTypeName name="java.io.Console"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="ex03_class.Student"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="ex01_exam.UserInfo"/>
+    <fullyQualifiedTypeName name="ex04_overloading.Overload_main"/>
+    <fullyQualifiedTypeName name="ex05_inheritance.Customer"/>
+    <fullyQualifiedTypeName name="ex06_inheritance.SchoolBus"/>
+    <fullyQualifiedTypeName name="ex07_final.Comic"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
