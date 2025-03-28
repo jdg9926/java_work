@@ -26,9 +26,11 @@ public class PenParent {
 		FountainPen fp = new FountainPen();
 		SharpPen sp = new SharpPen();
 		
-		bp.setAmount(0);
+		bp.setAmount(10);
+		System.out.println("Ballpen : " + bp.getAmount());
 		
-		
+		fp.setColor("빨강빨강");
+		System.out.println("FountainPen : " + fp.getColor());
+		System.out.println("FountainPen : " + fp.getAmount());
 	}
-	
 }
