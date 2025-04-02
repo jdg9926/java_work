@@ -15,9 +15,7 @@ public class Bingo {
 		// 숫자는 1 ~ 50 까지
 
 		Random rd = new Random();
-		
 		Set<Integer> set = new HashSet<>();
-		int[][] board = new int[5][5];
 		
 		for (int i = 0 ; i < 5; i++) {
 			for (int j = 0; j < 5;) {
@@ -40,6 +38,8 @@ public class Bingo {
 		}
 		
 		System.out.println("--------------------");
+		
+		int[][] board = new int[5][5];
 		
 		// set은 index가 없기 때문에 하나씩 꺼낼수가 없다.
 		// 그렇기 때문에 iterator를 통해서 꺼낸다.
